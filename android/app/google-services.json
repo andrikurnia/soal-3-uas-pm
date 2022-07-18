@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480554242286",
+    "project_id": "shopp-app-6bf7a",
+    "storage_bucket": "shopp-app-6bf7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480554242286:android:55cbb178dc2f64df9da3ff",
+        "android_client_info": {
+          "package_name": "com.halbas.buybes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480554242286-hf3o0871hlafqbcokip85b8v3n93uoag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ByMgMBAfnyvTtrqjcYKGAWutMJRpRrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480554242286-hf3o0871hlafqbcokip85b8v3n93uoag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
